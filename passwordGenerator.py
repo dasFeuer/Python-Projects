@@ -41,7 +41,6 @@
 # pwd = generatePassword(minLength, hasNumber, hasSpecial)
 # print(f"The generated password is: {pwd}")
 import random
-
 import string
 
 def generatePassword(minLength, numbers=True, specialCharacters=True):
